@@ -29,9 +29,11 @@ html {
     list-style: none;
 }
 
-.header-2{
+.header-2 a{
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
     width: 500px;
+    text-decoration: none;
+    color: black;
 }

@@ -16,3 +16,15 @@ body{
 html {
     scroll-behavior: smooth;
 }
+
+.header{
+    display: flex;
+    padding: 20px;
+    
+}
+
+#list-items{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}

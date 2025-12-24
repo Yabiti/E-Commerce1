@@ -29,9 +29,9 @@ html {
     list-style: none;
 }
 
-.header2{
+.header-2{
     display: flex;
-    justify-content: space-between;
-    align-items: end;
-    gap: 50px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    width: 500px;
 }

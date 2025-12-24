@@ -28,3 +28,10 @@ html {
     gap: 50px;
     list-style: none;
 }
+
+.header2{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    gap: 50px;
+}
